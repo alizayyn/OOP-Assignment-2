@@ -1,2 +1,2 @@
-# OOP ASSIGNMENT 2
-It is a university assignment where i practiced some basic oop Cconcepts
+# OOP ASSIGNMENTs
+I am making a coolection of university assignments on my git hub this is OOP assignments collection.It contatins all the concepts of OOP
